@@ -10,8 +10,9 @@
    ```
   으로 시작하여 문서 형식을 HTML5로 지정해야 한다.
 
-
-
+<br>
+<br>
+<br>
 
 # HTML 기본 구조
 ```htm
@@ -36,9 +37,9 @@
 
 
 
-
-
-
+<br>
+<br>
+<br>
 
 출처 : [w3schools][w3schoolslink]
 
