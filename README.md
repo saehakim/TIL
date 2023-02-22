@@ -20,7 +20,7 @@
 <br>
 <br>
 
-#CSS
+# CSS
 * [CSS Selector][cssselectorlilnk]
 
 [cssselectorlink]: https://github.com/saehakim/TIL/blob/main/CSS/CSS%20selector.md
